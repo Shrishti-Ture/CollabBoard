@@ -1,11 +1,5 @@
-CollabBoard :Collaborate seamlessly, sketch effortlessly.
-CollabBoard is a high-performance, real-time collaborative whiteboard designed to bridge the gap between remote communication and visual brainstorming.
-Built for teams, educators, and creatives, it provides a frictionless digital canvas where multiple users can ideate, sketch, and iterate together in an instant.
+CollabBoard : Collaborate seamlessly, sketch effortlessly. CollabBoard is an ultra-high-performance, real-time collaborative whiteboard solution that aims to bridge the worlds of remote collaboration and visual brainstorming. Developed for team collaboration, education, and design, it offers a seamless and effortless onlinecanvas for people to collaborate and sketch together in an instant.
 
-By leveraging WebSockets for low-latency synchronization, CollabBoard ensures that every stroke, text addition,
-and erase action is reflected across all connected screens simultaneously. No more static screen sharing or "one-person-controls-the-mouse"
-bottlenecks—CollabBoard creates a democratic workspace where ideas flow as fast as you can draw them.
+Utilizing low-latency synchronization through WebSockets, CollabBoard enables each mark, text insertion, and erase movement to be synchronized on multiple screens at the same time. Say goodbye to static screen sharing and the “one-person-controls-the-mouse” bottleneck;CollabBoard enables your collaborative workspace to be just as swift as your drawing capabilities.
 
-Physical whiteboards are great, but they don't scale for remote work. CollabBoard solves this by providing a persistent, 
-digital version of the "war room" experience. Whether you are wireframing a new app, teaching a complex math concept,
-or mapping out a sprint plan, CollabBoard makes your remote collaboration feel like you're standing at the same board.
+Traditional whiteboards are awesome, but they are not scalable if working remotely. How CollabBoard solves this problem is that they have given you the “war room experience," which is available digitally and always there. If you are designing an app, teaching math concepts to students, or designing your sprint plan, CollabBoard gives your remote team the experience of being in the same room working on that board.
